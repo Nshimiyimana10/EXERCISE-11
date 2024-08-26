@@ -53,7 +53,7 @@ body {
   background-color: rgb(148, 30, 125);
 }
 
-.middle-illustration-img {
+.upper-illustration-img {
   width: 150px;
   height: 80px;
 }
@@ -66,7 +66,17 @@ body {
   font-size: 15px;
 }
 
-.middle-part {
+.upper-part {
   display: flex;
   flex-direction: row;
+}
+
+.middle-illustration-img{
+    width:100px;
+    height:100px;
+}
+
+.middle-part{
+    display:flex;
+    
 }
